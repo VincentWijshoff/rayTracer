@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Fun\raytracer\build\_deps\sfml-subbuild\CMakeFiles\a27b513989caaa40a3234953be0de396\sfml-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Fun\raytracer\build\_deps\sfml-subbuild\CMakeFiles\a27b513989caaa40a3234953be0de396\sfml-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Fun\raytracer\build\_deps\sfml-subbuild\CMakeFiles\a27b513989caaa40a3234953be0de396\sfml-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Fun\raytracer\build\_deps\sfml-subbuild\CMakeFiles\a27b513989caaa40a3234953be0de396\sfml-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Fun\raytracer\build\_deps\sfml-subbuild\CMakeFiles\a27b513989caaa40a3234953be0de396\sfml-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Fun\raytracer\build\_deps\sfml-subbuild\CMakeFiles\a27b513989caaa40a3234953be0de396\sfml-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Fun\raytracer\build\_deps\sfml-subbuild\CMakeFiles\a27b513989caaa40a3234953be0de396\sfml-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Fun\raytracer\build\_deps\sfml-subbuild\CMakeFiles\a27b513989caaa40a3234953be0de396\sfml-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Fun\raytracer\build\_deps\sfml-subbuild\CMakeFiles\0f66302ceac41d700622f4392015ebb5\sfml-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Fun\raytracer\build\_deps\sfml-subbuild\CMakeFiles\12e7c01b0ecd9d33aba54290514c724b\sfml-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Fun\raytracer\build\_deps\sfml-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\Fun\raytracer\build\_deps\sfml-subbuild\CMakeFiles\sfml-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{9B9F564C-1FB7-33B0-8C3D-D06DBEA3778F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

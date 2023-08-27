@@ -1,0 +1,8 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.24/Modules/FindOpenAL.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/FindPackageMessage.cmake
+D:/Fun/raytracer/build/_deps/sfml-src/cmake/Modules/FindFLAC.cmake
+D:/Fun/raytracer/build/_deps/sfml-src/cmake/Modules/FindVORBIS.cmake
+D:/Fun/raytracer/build/_deps/sfml-src/src/SFML/Audio/CMakeLists.txt
+D:/Fun/raytracer/build/_deps/sfml-src/tools/windows/resource.rc.in

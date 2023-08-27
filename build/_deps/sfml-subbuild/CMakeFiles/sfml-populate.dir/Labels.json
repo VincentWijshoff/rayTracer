@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/Fun/raytracer/build/_deps/sfml-subbuild/CMakeFiles/sfml-populate"
+		},
+		{
+			"file" : "D:/Fun/raytracer/build/_deps/sfml-subbuild/CMakeFiles/12e7c01b0ecd9d33aba54290514c724b/sfml-populate.rule"
+		},
+		{
+			"file" : "D:/Fun/raytracer/build/_deps/sfml-subbuild/CMakeFiles/0f66302ceac41d700622f4392015ebb5/sfml-populate-complete.rule"
+		},
+		{
+			"file" : "D:/Fun/raytracer/build/_deps/sfml-subbuild/CMakeFiles/a27b513989caaa40a3234953be0de396/sfml-populate-build.rule"
+		},
+		{
+			"file" : "D:/Fun/raytracer/build/_deps/sfml-subbuild/CMakeFiles/a27b513989caaa40a3234953be0de396/sfml-populate-configure.rule"
+		},
+		{
+			"file" : "D:/Fun/raytracer/build/_deps/sfml-subbuild/CMakeFiles/a27b513989caaa40a3234953be0de396/sfml-populate-download.rule"
+		},
+		{
+			"file" : "D:/Fun/raytracer/build/_deps/sfml-subbuild/CMakeFiles/a27b513989caaa40a3234953be0de396/sfml-populate-install.rule"
+		},
+		{
+			"file" : "D:/Fun/raytracer/build/_deps/sfml-subbuild/CMakeFiles/a27b513989caaa40a3234953be0de396/sfml-populate-mkdir.rule"
+		},
+		{
+			"file" : "D:/Fun/raytracer/build/_deps/sfml-subbuild/CMakeFiles/a27b513989caaa40a3234953be0de396/sfml-populate-patch.rule"
+		},
+		{
+			"file" : "D:/Fun/raytracer/build/_deps/sfml-subbuild/CMakeFiles/a27b513989caaa40a3234953be0de396/sfml-populate-test.rule"
+		},
+		{
+			"file" : "D:/Fun/raytracer/build/_deps/sfml-subbuild/CMakeFiles/a27b513989caaa40a3234953be0de396/sfml-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"sfml-populate"
+		],
+		"name" : "sfml-populate"
+	}
+}

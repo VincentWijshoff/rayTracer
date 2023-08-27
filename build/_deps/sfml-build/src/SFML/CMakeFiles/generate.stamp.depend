@@ -1,0 +1,5 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.24/Modules/CMakeParseArguments.cmake
+D:/Fun/raytracer/build/_deps/sfml-src/cmake/CompilerWarnings.cmake
+D:/Fun/raytracer/build/_deps/sfml-src/cmake/Macros.cmake
+D:/Fun/raytracer/build/_deps/sfml-src/src/SFML/CMakeLists.txt
